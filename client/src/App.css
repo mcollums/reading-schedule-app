@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?https://fonts.googleapis.com/css?family=Arvo:400,700,700i|Kalam|Quicksand:300,400,600&display=swap=Kalam|Ultra&display=swap|Roboto");
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  font-family: "Quicksand", sans-serif;
+}
+a {
+  color: #fff;
+}
+p {
+  color: #2c2c2c;
+}
+#main-nav {
+  background-color: #571845;
+  font-weight: 400;
+}

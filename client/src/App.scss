@@ -1,0 +1,40 @@
+//Google Font
+@import url('https://fonts.googleapis.com/css?https://fonts.googleapis.com/css?family=Arvo:400,700,700i|Kalam|Quicksand:300,400,600&display=swap=Kalam|Ultra&display=swap|Roboto');
+
+$main-color: #8f0d3e;
+$light-color: #c70038;
+$lighter-color: #eb1d57;
+$dark-color: #571845;
+$darker-color: rgb(73, 1, 1);
+$accent-color: #ff5733;
+$white-color: white;
+
+$font-main-color: rgb(44, 44, 44);
+
+$font-main: 'Kalam', cursive;
+$font-sans: 'Quicksand', sans-serif;
+$font-serif: 'Arvo', 'Times New Roman', serif;
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    font-family: $font-sans;
+}
+
+a {
+    color: $white-color;
+}
+
+p {
+    color: $font-main-color;
+}
+
+#main-nav {
+    background-color: $dark-color;
+    font-weight: 400;
+}
